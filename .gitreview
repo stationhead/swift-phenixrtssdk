@@ -1,0 +1,6 @@
+[gerrit]
+host=gerrit.phenixrts.com
+port=29418
+project=swift-phenixrtssdk
+defaultbranch=master
+defaultrebase=0
