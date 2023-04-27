@@ -21,7 +21,7 @@ let package = Package(
         .binaryTarget(
             name: "PhenixSdk",
             url: "https://pub-a3c8eff5bc36464d84d7eefe31e3d16f.r2.dev/PhenixSdk.xcframework.zip",
-            checksum: "8c120c8e155ebda5f267da1134ab59cc1bb37f2656cc0cf239517454c811f66e"
+            checksum: "0dc39103e6cbcdb1c45b161393c54fc2e9282ec06fafe8d951121ed9992a4683"
         ),
     ]
 )
